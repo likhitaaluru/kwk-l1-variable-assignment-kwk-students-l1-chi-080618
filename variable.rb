@@ -2,4 +2,3 @@
  # give it the value of the string "Hello World"
 local_variables = greeting
 greeting = "Hello World"
-puts "#{greeting}"
